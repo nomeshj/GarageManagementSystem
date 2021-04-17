@@ -1,0 +1,30 @@
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\SE\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\Database23.mdb
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+G:\garage management system\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.application
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.TrustInfo.xml
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe.manifest
+G:\garage management system\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.application
